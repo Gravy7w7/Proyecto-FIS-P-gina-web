@@ -6,7 +6,7 @@ header{
     width: 100%;
     position: fixed;
     top: 0;
-    left: 10px;
+    left: 0px;
     padding: 1rem 3%;
 }
 
@@ -35,9 +35,8 @@ html{
     overflow: hidden;
 }
 .container{
-    width: 90%;
-    max-width: 1200px;
-    margin: auto;
+    width: 50%;
+    max-width: 1000px;
 }
 .container .btn-menu{
     float: left;
